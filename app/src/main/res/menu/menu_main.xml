@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.aashish.flick.MainActivity">
+
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Sort"
+        app:showAsAction="ifRoom">
+        <menu>
+            <group android:id="@+id/group_sortOrder"
+                android:checkableBehavior="single">
+            <item
+                android:id="@+id/action_sort_rating"
+                android:title="@string/Rating"/>
+            <item
+                android:title="@string/Popularity"
+                android:id="@+id/action_sort_popularity"
+                android:checked="true"/>
+            <item
+                android:id="@+id/action_revenue"
+                android:title="@string/Revenue"/>
+            <item
+                android:id="@+id/action_now_playing"
+                android:title="@string/Now_Playing"/>
+           <item
+               android:id="@+id/action_favorites"
+               android:title="@string/Favorites"/>
+
+            </group>
+        </menu>
+    </item>
+</menu>
