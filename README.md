@@ -18,9 +18,8 @@ I have tried to implement the whole project on the material guidelines from goog
 Devices Running Lollipop (API 21) or above are supported
 
 ## Other Remarks
-Make sure to add the API key from https://www.themoviedb.org/ to Build.gradle before compiling the project. Make sure you have compleSDK verion of 23.0.2 installed in Andorid Studio
+Make sure to add the API key from https://www.themoviedb.org/ to Build.gradle before compiling the project. Make sure you have compleSDK version of 23.0.2 installed in Android Studio
 
 ##Libraries Used
 Picasso - http://square.github.io/picasso/ <br>
 Volley - http://developer.android.com/training/volley/index.html
-
