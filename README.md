@@ -14,6 +14,18 @@ I have tried to implement the whole project on the material guidelines from goog
 <img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_20160322-121106.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_20160322-121127.png" height=480 width =270/>
 
+## Features
+<ul style="list-style-type:disc">
+<li>Shows Movie Poster in a grid view based on user selection of the category.</li><br>
+<li>Used Fading action bar to show the backdrop of the movie selected</li><br>
+<li>Shows a review, Release Date, Rating and User Cretics.</li><br>
+<li>Opens Movie Trailers using Youtube APP (Should be pre-installed).</li><br>
+<li>Displays Additional info like Budget, Revenue, Original Language, Running Time, General, Production Companies, Tagline.</li><br>
+<li>Provides link to the movie's Website.</li><br>
+<li>Users can Favourite their movies using Favorites fab which saves the movie info locally so that it could be viewed offline.</li><br>
+<li>Share intent on the top shares the youtube trailer URL to share broadcaster.</li><br>
+</ul>
+
 ## Android Version Targeting
 Devices Running Lollipop (API 21) or above are supported
 
