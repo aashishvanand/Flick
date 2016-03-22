@@ -1,6 +1,6 @@
 # Flick
-Udacity Android Nanodegree - Popular Movies 2
-This is a sample app provided to show developers what Flick looks like in action. It filters movie titles based on User Rating, Popularity, Revenue, Now Playing and User Favourites.
+Udacity Android Nanodegree - Popular Movies 2 <br>
+This is a Android app to show all your favourite movies, details and trailers based on several catagories like Rating, Popularity, Revenue, Now Playing and User Favourites.
 I have tried to implement the whole project on the material guidelines from google by using Material Colours, Material Cards.
 
 #Screenshots
