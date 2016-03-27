@@ -13,6 +13,10 @@ I have tried to implement the whole project on the material guidelines from goog
 <img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_20160322-121055.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_20160322-121106.png" height=480 width =270/>
 <img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_20160322-121127.png" height=480 width =270/>
+<img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_2016-03-27-21-15-42.png" height=1280 width =720/>
+<img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_2016-03-27-21-14-46.png" height=1280 width =720/>
+<img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_2016-03-27-21-15-31.png" height=1280 width =720/>
+<img src="https://raw.githubusercontent.com/aashishvanand/Flick/master/Screenshots/Screenshot_2016-03-27-21-15-24.png" height=1280 width =720/>
 
 ## Features
 <ul style="list-style-type:disc">
