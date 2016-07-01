@@ -10,7 +10,6 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.MenuItemCompat;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -152,7 +151,7 @@ public class DetailActivityFragment extends Fragment {
         else
             fab.setImageDrawable(ContextCompat.getDrawable(getActivity(), R.drawable.fav_off));
         Picasso.with(getContext()).load(movie.poster_url).
-                placeholder(R.id.posterImageView).into((ImageView) curView.findViewById(R.id.posterImageView));
+                placeholder(R.drawable.noposter).into((ImageView) curView.findViewById(R.id.posterImageView));
         ((TextView) curView.findViewById(R.id.overviewTextView)).setText(movie.overview);
         ((RatingBar) curView.findViewById(R.id.rating)).setRating(movie.rating / 2f);
         ((TextView) curView.findViewById(R.id.ratingTextView)).setText((float) Math.round(movie.rating*10d)/10d + "/10");

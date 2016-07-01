@@ -21,6 +21,8 @@ public class DetailActivity extends AppCompatActivity {
         ImageView header = (ImageView) findViewById(R.id.headerimage);
         Toolbar toolbar = (Toolbar) findViewById(R.id.anim_toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
         movie = getIntent().getParcelableExtra(Intent.EXTRA_TEXT);
         DetailActivityFragment detailFragment = (DetailActivityFragment) getSupportFragmentManager().findFragmentById(R.id.detailFragment);
         detailFragment.movie = movie;

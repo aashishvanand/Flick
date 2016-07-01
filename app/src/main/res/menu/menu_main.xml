@@ -5,7 +5,7 @@
 
     <item
         android:id="@+id/action_sort"
-        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:icon="@drawable/ic_sort_by_alpha_white_36dp"
         android:title="Sort"
         app:showAsAction="ifRoom">
         <menu>
